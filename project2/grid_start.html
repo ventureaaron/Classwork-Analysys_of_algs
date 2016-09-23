@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>Grid</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+   
+  </head>
+  <body id="body">
+    <div class="container">
+      <div class="well"><center>
+        <p class="lead" id="result">Grid maker</p></center>
+      </div>
+	  <br />
+    
+	<center>
+	<form method="post" action="make_grid.php"><table>
+		<tr><td>Dimension(smaller one):</td><td><input type="text" name="m"></td></tr>
+		<tr><td>Dimension(larger one):</td><td><input type="text" name="n"></td></tr>
+		<tr><td>Maximum number:</td><td><input type="text" name="maximum"></td></tr>
+		<tr><td>Show steps?:</td><td><label class="radio-inline"><input type="radio" value="Yes" name="step" checked="">Yes</label><label class="radio-inline"><input type="radio" value="No" name="step">No</label></td></tr>
+		<tr><td colspan="2" align="center">
+		<input type="submit" value="Create grid"></td></tr>
+	</table></form>
+	</center>
+	
+	</div>
+	<!-- Bootstrap Core JavaScript -->
+    <script src="http://homeroom.ddns.net/RESOURCES/bootstrap/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script>
+    <script src="http://homeroom.ddns.net/RESOURCES/jquery-1.11.2.min.js"></script>
+	
+  </body>
+</html>
