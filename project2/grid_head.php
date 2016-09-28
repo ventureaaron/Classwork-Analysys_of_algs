@@ -55,6 +55,7 @@
 						alert("match");
 						$("#grid tbody tr:eq("+row_start+") td:eq("+col_start+")").css("background-color","green");
 					}
+					calc_count = calc_count + 2;
 					if (col_start>col_max||row_start<0){
 						iteration++;
 						break;
