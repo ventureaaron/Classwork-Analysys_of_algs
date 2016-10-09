@@ -11,7 +11,7 @@ namespace Project1_createFiles
     {
         static void Main(string[] args)
         {
-            int numberOfRandFiles = 10;
+            int numberOfRandFiles = 1;
             int numberOfOrderedFiles = 1;
             int numberOfRevOrderedFiles = 1;
 
