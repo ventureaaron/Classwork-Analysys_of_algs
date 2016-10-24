@@ -1,0 +1,14 @@
+C:\Users\aaron\Documents\AnalysisOfAlgs_project3\AnalysisOfAlgs_Project3\AnalysisOfAlgs_Project3\bin\Debug\AnalysisOfAlgs_Project3.exe.config
+C:\Users\aaron\Documents\AnalysisOfAlgs_project3\AnalysisOfAlgs_Project3\AnalysisOfAlgs_Project3\bin\Debug\AnalysisOfAlgs_Project3.exe
+C:\Users\aaron\Documents\AnalysisOfAlgs_project3\AnalysisOfAlgs_Project3\AnalysisOfAlgs_Project3\bin\Debug\AnalysisOfAlgs_Project3.pdb
+C:\Users\aaron\Documents\AnalysisOfAlgs_project3\AnalysisOfAlgs_Project3\AnalysisOfAlgs_Project3\obj\Debug\AnalysisOfAlgs_Project3.csprojResolveAssemblyReference.cache
+C:\Users\aaron\Documents\AnalysisOfAlgs_project3\AnalysisOfAlgs_Project3\AnalysisOfAlgs_Project3\obj\Debug\MainWindow.g.cs
+C:\Users\aaron\Documents\AnalysisOfAlgs_project3\AnalysisOfAlgs_Project3\AnalysisOfAlgs_Project3\obj\Debug\App.g.cs
+C:\Users\aaron\Documents\AnalysisOfAlgs_project3\AnalysisOfAlgs_Project3\AnalysisOfAlgs_Project3\obj\Debug\AnalysisOfAlgs_Project3_MarkupCompile.cache
+C:\Users\aaron\Documents\AnalysisOfAlgs_project3\AnalysisOfAlgs_Project3\AnalysisOfAlgs_Project3\obj\Debug\AnalysisOfAlgs_Project3_MarkupCompile.lref
+C:\Users\aaron\Documents\AnalysisOfAlgs_project3\AnalysisOfAlgs_Project3\AnalysisOfAlgs_Project3\obj\Debug\MainWindow.baml
+C:\Users\aaron\Documents\AnalysisOfAlgs_project3\AnalysisOfAlgs_Project3\AnalysisOfAlgs_Project3\obj\Debug\AnalysisOfAlgs_Project3.g.resources
+C:\Users\aaron\Documents\AnalysisOfAlgs_project3\AnalysisOfAlgs_Project3\AnalysisOfAlgs_Project3\obj\Debug\AnalysisOfAlgs_Project3.Properties.Resources.resources
+C:\Users\aaron\Documents\AnalysisOfAlgs_project3\AnalysisOfAlgs_Project3\AnalysisOfAlgs_Project3\obj\Debug\AnalysisOfAlgs_Project3.csproj.GenerateResource.Cache
+C:\Users\aaron\Documents\AnalysisOfAlgs_project3\AnalysisOfAlgs_Project3\AnalysisOfAlgs_Project3\obj\Debug\AnalysisOfAlgs_Project3.exe
+C:\Users\aaron\Documents\AnalysisOfAlgs_project3\AnalysisOfAlgs_Project3\AnalysisOfAlgs_Project3\obj\Debug\AnalysisOfAlgs_Project3.pdb
