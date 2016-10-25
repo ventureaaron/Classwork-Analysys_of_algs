@@ -76,7 +76,7 @@ namespace AnalysisOfAlgs_Project3
                     subArray[searchInt[i]]++;
                 }
             }
-            
+            int count = 0;
             //step 3:
             for (int i = 1; i<=Convert.ToInt32(Math.Floor(search/2.0)); i++)
             {
@@ -86,12 +86,13 @@ namespace AnalysisOfAlgs_Project3
                 {
                     textBoxOutput.AppendText("(" + operandOne + ", " + operandTwo + ") : " + subArray.TwoIndexMin(operandOne, operandTwo));
                     textBoxOutput.AppendText(Environment.NewLine);
+                    count++;
                 }
             }
 
 
             timer.Stop();
-            textBoxOutput.AppendText("Total time: "+timer.Elapsed + " for n = "+size+", and m = "+search);
+            textBoxOutput.AppendText("Total time: "+timer.Elapsed + " for n = "+size+", and m = "+search+" and "+ count +" total unique pairs were found.");
         }
     }
 }
