@@ -82,9 +82,15 @@ namespace AnalysisOfAlgs_Project3
             {
                 int operandOne = i;
                 int operandTwo = search - i;
-                if (subArray.TwoIndexMin(operandOne, operandTwo) > 0)
+                int totalNumberSets = subArray.TwoIndexMin(operandOne, operandTwo);
+                if (operandOne == operandTwo)
                 {
-                    textBoxOutput.AppendText("(" + operandOne + ", " + operandTwo + ") : " + subArray.TwoIndexMin(operandOne, operandTwo));
+                    totalNumberSets = Convert.ToInt32(Math.Floor(totalNumberSets / 2.0));
+                }
+
+                if (totalNumberSets > 0)
+                {
+                    textBoxOutput.AppendText("(" + operandOne + ", " + operandTwo + ") : " + totalNumberSets);
                     textBoxOutput.AppendText(Environment.NewLine);
                     count++;
                 }
@@ -92,7 +98,7 @@ namespace AnalysisOfAlgs_Project3
 
 
             timer.Stop();
-            textBoxOutput.AppendText("Total time: "+timer.Elapsed + " for n = "+size+", and m = "+search+" and "+ count +" total unique pairs were found.");
+            textBoxOutput.AppendText("Total time: "+timer.Elapsed + " for n = "+size+", and search = "+search+" and "+ count +" total unique pairs were found.");
         }
     }
 }
